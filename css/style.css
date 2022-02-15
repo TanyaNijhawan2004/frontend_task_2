@@ -130,3 +130,16 @@ body{
     
 
 }
+
+@media(max-width:255px){
+    .firstbox{
+        max-width: fit-content;
+    }
+    .thriller{
+        padding-left: 0.5rem;
+
+    }
+    
+}
+
+
